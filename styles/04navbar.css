@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    color: var(--text-primary);
+    font-weight: bold;
+}
+
+.menu__button {
+
+}

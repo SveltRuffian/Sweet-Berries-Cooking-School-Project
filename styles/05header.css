@@ -1,0 +1,14 @@
+.banner {
+    display:flex;
+}
+
+.banner__title {
+    text-transform: capitalize;
+}
+
+.banner__paragraph {
+}
+
+.banner__image {
+    width: 50%;
+}
